@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jan Gabionza launches site"
+title: "site launch"
 date: 2018-03-19
 ---
 
